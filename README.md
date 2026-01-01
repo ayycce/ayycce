@@ -7,8 +7,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=CBAACB&center=true&vCenter=true&width=500&lines=Welcome+to+Aisyah's+Digital+Garden+🌿;Weaving+Code+%26+Creativity+🧚%E2%80%8D%E2%99%80%EF%B8%8F;Android+Dev+%2B+Crochet+Artist+🧶;Building+Gentle+Technology+🌕" alt="Typing SVG" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=CBAACB&center=true&vCenter=true&width=600&lines=Welcome+to+Aisyah+Digital+Garden+🌿;Weaving+Code+%26+Creativity+🧚‍♀️;Android+Dev+×+Crochet+Artist+🧶;Building+Gentle+Technology+🌕"
+    alt="Typing SVG"
+  />
+</a>
+
   <p align="center" style="color: #907aa9;">
    <i>"Sprinkling a little magic and mindfulness into the tech world."</i>
   </p>
