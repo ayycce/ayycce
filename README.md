@@ -59,7 +59,7 @@ I use code to weave gentle, intentional, and meaningful experiences.<br/>
 
 <img 
   src="https://i.pinimg.com/originals/78/89/8e/78898e5255c9e146b05777746a155acd.gif"
-  width="250"
+  width="300"
   align="right"
   alt="gurl"
 />
