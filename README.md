@@ -86,21 +86,21 @@ I use code to weave gentle, intentional, and meaningful experiences.<br/>
 <div align="center">
   <br/>
   <p><i>"Crafted with code, crochet hooks, and a touch of magic." 🪄</i></p>
-  <small>🌻 Still growing. Still blooming. 🌻</small>
+  <small>Still growing.</small>
 </div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/1f/af/29/1faf29b4b45488252b003ce5d146af29.gif" width="200px" alt="sprout growing right">
   <h3>🕊 Let’s Connect</h3>
-
+<br/>
 <p>
 🌷 
 <a href="https://instagram.com/eyesyh_">
   <img src="https://img.shields.io/badge/Instagram-CBAACB?style=flat&logo=instagram&logoColor=white"/>
 </a>
-<br/>
+
 🌙
-<a href="mailto:EMAILKAMU@gmail.com">
+<a href="mailto:aisyahhh051004@gmail.com">
   <img src="https://img.shields.io/badge/Email-6A5ACD?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
