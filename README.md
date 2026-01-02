@@ -86,7 +86,7 @@ I use code to weave gentle, intentional, and meaningful experiences.<br/>
 <div align="center">
   <br/>
   <p><i>"Crafted with code, crochet hooks, and a touch of magic." 🪄</i></p>
-  <small>🌼Still growing.</small>
+  <small>🌻Still growing.</small>
 </div>
 
 <div align="center">
