@@ -55,33 +55,19 @@ I use code to weave gentle, intentional, and meaningful experiences.<br/>
   <img src="https://img.shields.io/badge/Git-F08080?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-<div align="right">
-        <img src="https://i.pinimg.com/originals/78/89/8e/78898e5255c9e146b05777746a155acd.gif" width="250px" style="margin-right: 10px; vertical-align: middle;">
-    </div>
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🍄 Enchanted Focus</h3>
-       <ul>
-        <li>📱 Cultivating <b>MentalityApp</b> (Mood Tracker).</li>
-        <li>🎨 Deep diving into <b>Compose UI Architecture</b>.</li>
-        <li>🫐 Learning English for global connection.</li>
-        <li>🧶 Nurturing <b>Aithreey Studio</b> creations.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-       <h3>🦋 Values & Beliefs</h3>
-      <ul>
-        <li>✨ <b>Emotional UX:</b> Validating user feelings.</li>
-        <li>🌿 <b>Clean UI:</b> Clarity over clutter.</li>
-        <li>🌕 <b>Intentionality:</b> Small details matter quietly.</li>
-        <li>🩰 <b>Growth:</b> Progress over perfection.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img 
+  src="https://i.pinimg.com/originals/78/89/8e/78898e5255c9e146b05777746a155acd.gif"
+  width="250"
+  align="right"
+  alt="gurl"
+/>
+### 🍄 Enchanted Focus
+- 📱 Cultivating <b>MentalityApp</b> (Mood Tracker).
+- 🎨 Deep diving into <b>Compose UI Architecture</b>.
+- 🫐 Learning English for global connection.
+- 🧶 Nurturing <b>Aithreey Studio</b> creations.
 
 <br/>
 
@@ -100,12 +86,12 @@ I use code to weave gentle, intentional, and meaningful experiences.<br/>
 <div align="center">
   <br/>
   <p><i>"Crafted with code, crochet hooks, and a touch of magic." 🪄</i></p>
-  <small>🌸 Still growing. Still blooming. 🌸</small>
+  <small>🌻 Still growing. Still blooming. 🌻</small>
 </div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/1f/af/29/1faf29b4b45488252b003ce5d146af29.gif" width="200px" alt="sprout growing right">
-  <h3>🕊 Reach Me Softly</h3>
+  <h3>🕊 Let’s Connect</h3>
 
 <p>
 🌷 
