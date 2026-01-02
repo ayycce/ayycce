@@ -23,24 +23,26 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="30%" align="center" valign="center" style="border: none;">
-      <img src="https://i.pinimg.com/originals/fb/60/3e/fb603e7db49ac9b0ce7f055d657ca288.gif" width="80%" alt="Aisyah Avatar">
-    </td>
-    <td width="70%" valign="center" style="border: none;">
-      🌱 <b>IT Student</b> focusing on <b>Android Development</b><br/>
-      🧠 <b>Emotional UX</b> Enthusiast<br/>
-      🦋 Crafting logic & dreams as the founder of <b>Aithreey Studio</b>
-      <br/><br/>
-      <p>
-        I believe technology should feel like a soft breeze, not a storm.<br/>
-        I use code to weave <b>gentle, intentional, and meaningful</b> experiences.<br/>
-        ✨ <i>Slow living, intentional building.</i> ✨
-      </p>
-    </td>
-  </tr>
-</table>
+<img 
+  src="https://i.pinimg.com/originals/fb/60/3e/fb603e7db49ac9b0ce7f055d657ca288.gif"
+  width="250"
+  align="left"
+  alt="Aisyah Avatar"
+/>
+
+<br/>
+🌱 <b>IT Student</b> focusing on ndroid Development<br/>
+🧠 Emotional UX Enthusiast<br/>
+🦋 Crafting logic & dreams as the founder of <b>Aithreey Studio</b>
+
+<br/><br/>
+
+I believe technology should feel like a soft breeze, not a storm.<br/>
+I use code to weave gentle, intentional, and meaningful experiences.<br/>
+✨ <i>Slow living, intentional building.</i> ✨
+
+<br clear="left"/>
+
 
 ---
 
@@ -53,6 +55,9 @@
   <img src="https://img.shields.io/badge/Git-F08080?style=flat-square&logo=git&logoColor=white" />
 </div>
 
+<div align="right">
+        <img src="https://i.pinimg.com/originals/78/89/8e/78898e5255c9e146b05777746a155acd.gif" width="250px" style="margin-right: 10px; vertical-align: middle;">
+    </div>
 <br/>
 
 <table>
@@ -75,11 +80,6 @@
         <li>🩰 <b>Growth:</b> Progress over perfection.</li>
       </ul>
     </td>
-    <td >
-      <div align="right">
-        <img src="https://i.pinimg.com/originals/78/89/8e/78898e5255c9e146b05777746a155acd.gif" width="200px" style="margin-right: 10px; vertical-align: middle;">
-    </div>
-    </td>
   </tr>
 </table>
 
@@ -97,7 +97,6 @@
 </div>
 
 ---
-
 <div align="center">
   <br/>
   <p><i>"Crafted with code, crochet hooks, and a touch of magic." 🪄</i></p>
@@ -106,4 +105,17 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/1f/af/29/1faf29b4b45488252b003ce5d146af29.gif" width="200px" alt="sprout growing right">
+  <h3>🕊 Reach Me Softly</h3>
+
+<p>
+🌷 
+<a href="https://instagram.com/eyesyh_">
+  <img src="https://img.shields.io/badge/Instagram-CBAACB?style=flat&logo=instagram&logoColor=white"/>
+</a>
+<br/>
+🌙
+<a href="mailto:EMAILKAMU@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6A5ACD?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
 </div>
