@@ -25,7 +25,7 @@
 
 <img 
   src="https://i.pinimg.com/originals/fb/60/3e/fb603e7db49ac9b0ce7f055d657ca288.gif"
-  width="250"
+  width="300"
   align="left"
   alt="Aisyah Avatar"
 />
