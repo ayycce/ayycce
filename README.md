@@ -16,7 +16,7 @@
   <p align="center" style="color: #907aa9;">
    <i>"Sprinkling a little magic and mindfulness into the tech world."</i>
   </p>
-   <a href="https://github.com/ayycce">
+   <a href="https://aithreey.com/">
     <img src="https://img.shields.io/badge/Visit_Aithreey_Studio-FFB6C1?style=flat-square&logo=etsy&logoColor=black" alt="Aithreey Studio" />
   </a>
 </div>
